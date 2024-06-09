@@ -1,4 +1,5 @@
 # Tank2D
+This is a 2D combat game in which you can control a tank to shoot the enemies.
 ### First version: version 0.0.0.0
 1. Use **Arrow keys** to move the tank.
 2. To shoot bullets, you employ the **SpaceBar** key.
